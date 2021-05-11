@@ -3,7 +3,7 @@
 
 Full-Stack | Software engineer :robot:
 
-Hi, I'm Rodrigo Azevedo, a Developer from Brazil. <img align="right" width="400" height="auto" src="https://media.giphy.com/media/13cswZEvNJM7ZK/giphy.gif"> Currently working as Front-End <br/>Developer at [Solutis](https://solutis.com.br/).
+Hi, I'm Rodrigo Azevedo, a Developer from Brazil. <img align="right" width="400" height="auto" src="https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif"> Currently working as Front-End <br/>Developer at [Solutis](https://solutis.com.br/).
 
 ## - ⚡ Technologies
 
