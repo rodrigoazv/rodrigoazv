@@ -15,7 +15,7 @@ Talk to me about
 
 ## - 🌱 I’m currently learning
 
-- Python with messaging (Rabbitmq)
+- Go/C# with messaging, microservice concepts and some codes
 - Improving knowledge in database, algorithm and software architecture
 
 ## Social media :mailbox_with_no_mail:
