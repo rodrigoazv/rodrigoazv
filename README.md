@@ -3,7 +3,7 @@
 
 Full-Stack | Software engineer :robot:
 
-Hi, I'm Rodrigo Azevedo, a Developer from Brazil. <img align="right" width="400" height="auto" src="https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif"> Currently working as Front-End <br/>Developer at [Solutis](https://solutis.com.br/).
+Hi, I'm Rodrigo Azevedo, a Developer from Brazil. Currently working as Front-End <br/>Developer at [Kinvo](https://www.kinvo.com.br/).
 
 ## - ⚡ Technologies
 
@@ -15,7 +15,7 @@ Talk to me about
 
 ## - 🌱 I’m currently learning
 
-- Go/C# with messaging, microservice concepts and some codes
+- Go with messaging, microservice concepts and some codes
 - Improving knowledge in database, algorithm and software architecture
 
 ## Social media :mailbox_with_no_mail:
