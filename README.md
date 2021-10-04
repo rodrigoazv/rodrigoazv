@@ -9,13 +9,13 @@ Hi, I'm Rodrigo Azevedo, a Developer from Brazil. Currently working as Front-End
 
 Talk to me about
 
-- Backend development using **Python, Node.js, Express, GraphQL**
+- Backend development using **Node.js, Express, GraphQL**
 - Front-end development using **React, HTML, Javascript (Typescript), CSS**
 - Database using **PosgresQL and MongoDB**
 
 ## - 🌱 I’m currently learning
 
-- Go with messaging, microservice concepts and some codes
+- Go/Java with messaging, microservice concepts and some codes
 - Improving knowledge in database, algorithm and software architecture
 
 ## Social media :mailbox_with_no_mail:
