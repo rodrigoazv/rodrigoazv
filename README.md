@@ -15,8 +15,8 @@ Talk to me about
 
 ## - 🌱 I’m currently learning
 
-- Go(main)/Java with microservice concepts and some codes
-- Improving knowledge in database, algorithm and software architecture
+- About concurrency and architecture with elixir/golang.
+- Improving knowledge in database and algorithm.
 
 ## Social media :mailbox_with_no_mail:
 
