@@ -9,7 +9,7 @@ Hi, I'm Rodrigo Azevedo, a Developer from Brazil. Currently working as Front-End
 
 Talk to me about
 
-- Backend development using **Golang, Fiber**
+- Backend development using Kotlin
 - Front-end development using **React, HTML, Javascript (Typescript), CSS**
 - Database using **PosgresQL**
 
