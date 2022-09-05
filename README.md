@@ -3,19 +3,19 @@
 
 Full-Stack | Software engineer :robot:
 
-Hi, I'm Rodrigo Azevedo, a Developer from Brazil. Currently working as Front-End <br/>Developer at [Movile](https://movilepay.zendesk.com/hc/pt-br).
+Hi, I'm Rodrigo Azevedo, a Developer from Brazil. Currently working as Front-End <br/>Developer at [Solfacil](https://solfacil.com.br/).
 
 ## - ⚡ Technologies
 
 Talk to me about
 
-- Backend development using Kotlin
-- Front-end development using **React, HTML, Javascript (Typescript), CSS**
+- Backend development using Nodejs
+- Front-end development using **React, Vuejs HTML, Javascript (Typescript), CSS**
 - Database using **PosgresQL**
 
 ## - 🌱 I’m currently learning
 
-- About concurrency and architecture with golang.
+- About concurrency and architecture with elixir.
 - Improving knowledge in database and algorithm.
 
 ## Social media :mailbox_with_no_mail:
