@@ -11,7 +11,7 @@ Talk to me about
 
 - Backend development using Nodejs
 - Front-end development using **React, Vuejs HTML, Javascript (Typescript), CSS**
-- Database using **PosgresQL**
+- Database using **PostgresSQL**
 
 ## - 🌱 I’m currently learning
 
