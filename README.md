@@ -15,7 +15,7 @@ Talk to me about
 
 ## - 🌱 I’m currently learning
 
-- About concurrency and architecture with elixir.
+- About backend arch.
 - Improving knowledge in database and algorithm.
 
 ## Social media :mailbox_with_no_mail:
