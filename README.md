@@ -3,20 +3,20 @@
 
 Full-Stack | Software engineer :robot:
 
-Hi, I'm Rodrigo Azevedo, a Developer from Brazil. Currently working as Front-End <br/>Developer at [Solfacil](https://solfacil.com.br/).
+Hi, I'm Rodrigo Azevedo, a Developer from Brazil. Currently working as Full-stack <br/>Developer at [Solfacil](https://solfacil.com.br/).
 
 ## - ⚡ Technologies
 
 Talk to me about
 
-- Backend development using Nodejs
-- Front-end development using **React, Vuejs HTML, Javascript (Typescript), CSS**
-- Database using **PostgresSQL**
+- Backend development using Nodejs, Python, FastAPI
+- Front-end development using **React, Vuejs, HTML, Javascript (Typescript), CSS**
+- Database using **PostgresSQL, MongoDB**
 
 ## - 🌱 I’m currently learning
 
-- About backend arch.
-- Improving knowledge in database and algorithm.
+- About backend arch, web perfomance and design patterns.
+- Improving knowledge in database.
 
 ## Social media :mailbox_with_no_mail:
 
